@@ -8,7 +8,9 @@
     </p>
 </p>
 
-A dark theme for [Zed](https://zed.dev/) with warm sunset-inspired colors, featuring golden yellows, soft pinks, and vibrant cyans.
+A dark theme for [Zed](https://zed.dev/) with warm sunset-inspired colors.
+
+![After Sunset Theme Preview](https://raw.githubusercontent.com/exler/after-sunset-zed/main/assets/screenshot-theme.png)
 
 ## Installation
 
@@ -48,6 +50,7 @@ The theme uses a carefully selected color palette:
 ## References
 
 - [After Sunset VS Code Theme](https://github.com/exler/after-sunset-vscode) - Original theme for VSCode from which this Zed theme is adapted.
+- [Zed Documentation on Themes](https://zed.dev/docs/extensions/themes)
 
 ## License
 
