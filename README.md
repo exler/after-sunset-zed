@@ -51,6 +51,7 @@ The theme uses a carefully selected color palette:
 
 - [After Sunset VS Code Theme](https://github.com/exler/after-sunset-vscode) - Original theme for VSCode from which this Zed theme is adapted.
 - [Zed Documentation on Themes](https://zed.dev/docs/extensions/themes)
+- [Zed Theme Builder](https://zed.dev/theme-builder)
 
 ## License
 
